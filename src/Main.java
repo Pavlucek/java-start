@@ -1,5 +1,3 @@
-package pl.naukaprogramowania;
-
 import java.util.Scanner;
 
 public class Main {
